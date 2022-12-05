@@ -45,7 +45,7 @@ endstep0-->
 -->
 
 <details id=1 open>
-<summary><h2>Step 1: Add headers</h2></summary>
+<summary><h2>Aca texto del step one: Step 1: Add headers</h2></summary>
 
 _Welcome to "Communicate using Markdown"! :wave:_
 
@@ -270,3 +270,66 @@ Here's a recap of all the tasks you've accomplished in your repository:
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2022 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+  
+
+---
+  ñlkjh
+---
+  
+<details id=1>
+<summary>primo step, con el id igual a 1</summary>
+
+_UHU :sparkles:_
+
+Let's...
+
+### Sample
+
+```txt
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+
+#### How it looks
+
+<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+
+### :keyboard: Activity: Adding an image
+
+1. one, dot (uno?).
+1. 1. one, dot (dos?).
+1. one, dot (tres?).
+1. one, dot (cuadro?).
+1. 1. one, dot (cinto?).
+1. one, dot (seis?)
+1. one, dot (siete?)
+
+</details>
+  
+<details id=2>
+<summary>secondo step, id equal to 2</summary>
+
+_UHU :sparkles:_
+
+Let's...
+
+### Sample
+
+```txt
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+
+#### How it looks
+
+<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
+
+### :keyboard: Activity: Adding an image
+
+1. one, dot (uno?).
+1. 1. one, dot (dos?).
+1. one, dot (tres?).
+1. one, dot (cuadro?).
+1. 1. one, dot (cinto?).
+1. one, dot (seis?)
+1. one, dot (siete?)
+
+</details>
