@@ -1,28 +1,28 @@
 <!--
   <<< Author notes: Header of the course >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
+Invisible comments in previw mode.
 -->
 
-# Communicate using Markdown
+# header h1 using Markdown + underline
+## header h2 using Markdown + underline
+### header h3 using Markdown NO underline
+#### header h4 using Markdown NO underline
+##### header h5 using Markdown NO underline
+###### header h6 using Markdown NO underline
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+_Italics for text using underscores in front and behind_
+
+_you can add comments (will be invisible in preview) by surronding them with "<,!,--" and "-,-,>" (without the commas)_ 
 
 <!--
   <<< Author notes: Start of the course >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
 -->
 
 <!--step0
 
-GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
+pilas, este es el step cero: GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
 
-- **Who is this for**: New developers, new GitHub users, and students.
+- **Who is this for**: New developers, new GitHub users and students.
 - **What you'll learn**: Use Markdown to add lists, images, and links in a comment or text file.
 - **What you'll build**: We'll update a plain text file and add Markdown formatting, and you can use this file to start your own GitHub Pages site.
 - **Prerequisites**: In this course you will work with pull requests as well as edit files. If these things aren't familiar to you, we recommend you take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course, first!
@@ -31,7 +31,7 @@ GitHub is about more than code. It’s a platform for software collaboration, an
 ## How to start this course
 
 1. Above these instructions, right-click **Use this template** and open the link in a new tab.
-   ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
+   ![aqui el texto entre corchetes]( aqui el link u imagen con https://...)
 2. In the new tab, follow the prompts to create a new repository.
    - For owner, choose your personal account or an organization to host the repository.
    - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
@@ -42,10 +42,6 @@ endstep0-->
 
 <!--
   <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
 -->
 
 <details id=1 open>
